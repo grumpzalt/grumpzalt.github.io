@@ -1,7 +1,5 @@
-## grumpzalts site
+## ![garbage.png]({{site.baseurl}}/garbage.png)
 
-# This is useless to you, I use it as a mirror
 
-# Useless
-## Useless
-### Useless
+[https://grumpzalt.github.io/EscMirrorEN/index.html](https://grumpzalt.github.io/EscMirrorEN/index.html "Download Escargot Here!")
+[https://escargot.log1p.xyz/downloads](https://escargot.log1p.xyz/downloads "Or here! I dont really care.")
